@@ -1,0 +1,6 @@
+<script>start("/Users/nubeseo/Desktop/Full stack/CV Online/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("Assets","Assets",1,128,"128 B",1750670313,"23/6/25, 11:18:33");</script>
+<script>addRow(".DS_Store",".DS_Store",0,6148,"6.0 kB",1750674969,"23/6/25, 12:36:09");</script>
+<script>addRow("index.html","index.html",0,2017,"2.0 kB",1750692145,"23/6/25, 17:22:25");</script>
+<script>addRow("style.css","style.css",0,1161,"1.1 kB",1750673319,"23/6/25, 12:08:39");</script>
